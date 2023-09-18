@@ -20,9 +20,6 @@ In this project, I have used a naive Bayes machine Learning algorithm to classif
 
 
 
-
-
- 
 ## Core Competencies
 
 - **Methodologies**: Machine Learning, Deep Learning Natural Language Processing, Statistics,  Big Data Analytics
