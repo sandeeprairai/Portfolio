@@ -15,6 +15,8 @@ In this project, I have used a naive Bayes machine Learning algorithm to classif
 
 ### SQL
 <img align="left" width="250" height="150" src="https://github.com/sandeeprairai/Portfolio/blob/main/Images/titanic.jpg"> **[Titanic Case Study](https://github.com/sandeeprairai/SQL/blob/main/Titanic_case_study.pdf)**
+
+
 In this project Apply various SQL queries such as group by, where clause window function etc to extract the information from  the Titanic dataset.
 
 #
@@ -23,18 +25,23 @@ In this project Apply various SQL queries such as group by, where clause window 
 <img align="left" width="250" height="150" src="https://github.com/sandeeprairai/Portfolio/blob/main/Images/flight.jpg"> 
 
 **[Flight  Case Study](https://github.com/sandeeprairai/SQL/blob/main/Titanic_case_study.pdf)**
+
+
 In this project Apply various SQL queries such as group by, where clause window function etc to extract the information from Flight dataset .
 
 #
 
 ### Tableau
 <img align="left" width="250" height="150" src="https://github.com/sandeeprairai/Portfolio/blob/main/Images/HR%20ANALYTICS%20DASHBOARD.png"> **[HR ANALYTICS DASHBOARD](https://public.tableau.com/views/HRAnalyticsdashboard_16874228960740/HRANALYTICSDASHBOARD?:language=en-US&:display_count=n&:origin=viz_share_link)**
+
 Interactive Dashboard using Tableau
 #
 
 <img align="left" width="250" height="150" src="https://github.com/sandeeprairai/Portfolio/blob/main/Images/tablu2.PNG">
 
 **[Olympic Dashboard](https://public.tableau.com/views/Olympics_EDA_16867265101290/StoryOfOlympics?:language=en-US&:display_count=n&:origin=viz_share_link)**
+
+
 -Steps 
 -Gathering the data, Cleaning the data  Performing the EDA  Making the dashboard Using Bi-Tool
 
