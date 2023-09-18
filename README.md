@@ -6,20 +6,32 @@ This Portfolio is a compilation of all the Data Science and Data Analysis projec
   
 ## Projects
 
-
 <img align="left" width="250" height="150" src="https://github.com/sandeeprairai/Portfolio/blob/main/Images/spam.jpg"> **[Email Spam Classifier](https://github.com/sandeeprairai/spam_detection)**
 
 In this project, I have used a naive Bayes machine Learning algorithm to classify the Email messages.The Naive Bayes Algorithm always gives the best result with textual data  There are various categories that come under the naive Bayes Gaussian Naive Bayes, Multinomial Naive Bayes, Complement Naive Bayes, and Bernoulli Naive Bayes.
 
 #
+
 <img align="left" width="250" height="150" src="https://github.com/sandeeprairai/Portfolio/blob/main/Images/titanic.jpg"> **[Titanic Case Study](https://github.com/sandeeprairai/SQL/blob/main/Titanic_case_study.pdf)**
 
 In this project Apply various SQL queries such as group by, where clause window function etc to extract the information from  the Titanic dataset.
 
+#
+
+<img align="left" width="250" height="150" src=https://github.com/sandeeprairai/Portfolio/blob/main/Images/flight.jpg"> **[Flight  Case Study](https://github.com/sandeeprairai/SQL/blob/main/SQL%20Project.pdf)**
+ 
+In this project Apply various SQL queries such as group by, where clause window function etc to extract the information from Flight dataset .
 
 #
 
-<img align="left" width="250" height="180" src="https://github.com/sandeeprairai/Portfolio/blob/main/Images/flight.jpg"> **[Flight  Case Study](https://github.com/sandeeprairai/SQL/blob/main/SQL%20Project.pdf)**
+
+
+
+
+
+#
+
+<img align="left" width="250" height="150" src="https://github.com/sandeeprairai/Portfolio/blob/main/Images/flight.jpg"> **[Flight  Case Study](https://github.com/sandeeprairai/SQL/blob/main/SQL%20Project.pdf)**
 
 In this project Apply various SQL queries such as group by, where clause window function etc to extract the information from Flight dataset .
 
@@ -37,8 +49,6 @@ Interactive Dashboard using Tableau
 <img align="left" width="250" height="150" src="https://github.com/sandeeprairai/Portfolio/blob/main/Images/tablu2.PNG">
 
 **[Olympic Dashboard](https://public.tableau.com/views/Olympics_EDA_16867265101290/StoryOfOlympics?:language=en-US&:display_count=n&:origin=viz_share_link)**
-
-
 -Steps 
 -Gathering the data, Cleaning the data  Performing the EDA  Making the dashboard Using Bi-Tool
 
