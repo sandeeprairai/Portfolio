@@ -14,7 +14,7 @@ In this project, I have used a naive Bayes machine Learning algorithm to classif
 
 <img align="left" width="250" height="150" src="https://github.com/sandeeprairai/Portfolio/blob/main/Images/titanic.jpg"> **[Titanic Case Study](https://github.com/sandeeprairai/SQL/blob/main/Titanic_case_study.pdf)**
 
-In this project Apply various SQL queries such as group by, where clause window function etc to extract the information from  the Titanic dataset.
+In this project Apply various SQL queries such as group by, where clause window function etc to extract the information from  the Titanic dataset.In this project Apply various SQL queries such as group by, where clause window function etc to extract the information from  the Titanic dataset.
 
 #
 
