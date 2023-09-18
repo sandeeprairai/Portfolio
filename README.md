@@ -12,7 +12,7 @@ In this project, I have used a naive Bayes machine Learning algorithm to classif
 
 ### Micro Projects
 - ### Statistics and Machine Learning
-- [Linear Regression]((https://github.com/sandeeprairai/Machine-Learning/tree/main/Linear%20Regression)): In this file, I aim to solve linear regression using analytical method and also by implementing gradient descent, stochastic gradient descent and minibatch gradient descent algorithms.
+- [Linear Regression]((https://github.com/sandeeprairai/Machine- Learning/blob/main/Linear%20Regression/Gradient_Descent_step_by_step.ipynb)): In this file, I aim to solve linear regression using analytical method and also by implementing gradient descent, stochastic gradient descent and minibatch gradient descent algorithms.
 - [House Prediction Using Linear Regression]((https://github.com/sandeeprairai/django2/tree/Django/House_Price_Prediction_in%20Django)): In this project I have Apllied Linear Regression Algorithm on A house data set and then converted it into a website using django freamework,
  
 
