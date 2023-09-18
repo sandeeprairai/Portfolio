@@ -21,18 +21,18 @@ In this project Apply various SQL queries such as group by, where clause window 
 
 <img align="left" width="250" height="150" src="https://github.com/sandeeprairai/Portfolio/blob/main/Images/flight.jpg"> 
 
-**[Flight  Case Study](https://github.com/sandeeprairai/SQL/blob/main/Titanic_case_study.pdf)**
+**[Flight  Case Study](https://github.com/sandeeprairai/SQL/blob/main/SQL%20Project.pdf)**
 
 In this project Apply various SQL queries such as group by, where clause window function etc to extract the information from Flight dataset .
 
 
 #
 
-<img align="left" width="250" height="150" src="https://github.com/archd3sai/Portfolio/blob/master/Images/instacart.jpeg"> **[Instacart Market Basket Analysis](https://github.com/archd3sai/Instacart-Market-Basket-Analysis)**
+<img align="left" width="250" height="150" src="https://github.com/sandeeprairai/Portfolio/blob/main/Images/titanic.jpg"> **[Flight  Case Study](https://github.com/sandeeprairai/SQL/blob/main/Titanic_case_study.pdf)**
 
-The objective of this project is to analyze the 3 million grocery orders from more than 200,000 Instacart users and predict which previously purchased item will be in user's next order. Customer segmentation and affinity analysis are also done to study user purchase patterns.
+In this project Apply various SQL queries such as group by, where clause window function etc to extract the information from  the Titanic dataset.
 
-#
+
 #
 
 
