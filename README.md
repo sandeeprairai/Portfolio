@@ -53,10 +53,9 @@ Making the dashboard Using Bi-Tool
 Making the dashboard Using Bi-Tool
 Making the dashboard Using Bi-Tool
 
-
-
-
 </br>
+
+
 ## Micro Projects
 - ### Statistics and Machine Learning
 - [Linear Regression ](https://github.com/sandeeprairai/Machine-Learning/blob/main/Linear%20Regression/Gradient_Descent_step_by_step.ipynb) : In this file, I aim to solve linear regression using analytical method and also by implementing gradient descent, stochastic gradient descent and minibatch gradient descent algorithms.
