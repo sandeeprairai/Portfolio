@@ -5,15 +5,13 @@ This Portfolio is a compilation of all the Data Science and Data Analysis projec
 - **LinkedIn**: [linkedin.com/sandeepkumar](https://www.linkedin.com/in/sandeep-kumar-935662228/)
   
 ## Projects
-### Machine Learning
+
 
 <img align="left" width="250" height="150" src="https://github.com/sandeeprairai/Portfolio/blob/main/Images/spam.jpg"> **[Email Spam Classifier](https://github.com/sandeeprairai/spam_detection)**
 
 In this project, I have used a naive Bayes machine Learning algorithm to classify the Email messages.The Naive Bayes Algorithm always gives the best result with textual data  There are various categories that come under the naive Bayes Gaussian Naive Bayes, Multinomial Naive Bayes, Complement Naive Bayes, and Bernoulli Naive Bayes.
 
 #
-
-### SQL
 <img align="left" width="250" height="150" src="https://github.com/sandeeprairai/Portfolio/blob/main/Images/titanic.jpg"> **[Titanic Case Study](https://github.com/sandeeprairai/SQL/blob/main/Titanic_case_study.pdf)**
 
 
@@ -31,7 +29,6 @@ In this project Apply various SQL queries such as group by, where clause window 
 
 #
 
-### Tableau
 <img align="left" width="250" height="150" src="https://github.com/sandeeprairai/Portfolio/blob/main/Images/HR%20ANALYTICS%20DASHBOARD.png"> **[HR ANALYTICS DASHBOARD](https://public.tableau.com/views/HRAnalyticsdashboard_16874228960740/HRANALYTICSDASHBOARD?:language=en-US&:display_count=n&:origin=viz_share_link)**
 
 Interactive Dashboard using Tableau
