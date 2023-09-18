@@ -32,6 +32,9 @@ In this project Apply various SQL queries such as group by, where clause window 
 Interactive Dashboard using Tableau 
 Interactive Dashboard using Tableau
 Interactive Dashboard using Tableau
+Interactive Dashboard using Tableau
+Interactive Dashboard using Tableau
+Interactive Dashboard using Tableau
 
 
 #
