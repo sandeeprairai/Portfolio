@@ -4,16 +4,15 @@ This Portfolio is a compilation of all the Data Science and Data Analysis projec
 - **Email**: [sandeeprairai339@gmail.com](sandeeprairai339@gmail.com)
 - **LinkedIn**: [linkedin.com/sandeepkumar](https://www.linkedin.com/in/sandeep-kumar-935662228/)
 ## Projects
-#### Machine Learning
+### Machine Learning
 
 <img align="left" width="250" height="150" src="https://github.com/sandeeprairai/Portfolio/blob/main/Images/spam.jpg"> **[Email Spam Classifier](https://github.com/sandeeprairai/spam_detection)**
 
 In this project, I have used a naive Bayes machine Learning algorithm to classify the Email messages.The Naive Bayes Algorithm always gives the best result with textual data  There are various categories that come under the naive Bayes Gaussian Naive Bayes, Multinomial Naive Bayes, Complement Naive Bayes, and Bernoulli Naive Bayes.
 
 #
-</br>
 
-#### SQL
+### SQL
 <img align="left" width="250" height="150" src="https://github.com/sandeeprairai/Portfolio/blob/main/Images/titanic.jpg"> **[Titanic Case Study](https://github.com/sandeeprairai/SQL/blob/main/Titanic_case_study.pdf)**
 In this project Apply various SQL queries such as group by, where clause window function etc to extract the information from  the Titanic dataset.
 
@@ -26,14 +25,12 @@ In this project Apply various SQL queries such as group by, where clause window 
 In this project Apply various SQL queries such as group by, where clause window function etc to extract the information from Flight dataset .
 
 #
-</br>
 
-#### Tableau
+### Tableau
 <img align="left" width="250" height="150" src="https://github.com/sandeeprairai/Portfolio/blob/main/Images/HR%20ANALYTICS%20DASHBOARD.png"> **[HR ANALYTICS DASHBOARD](https://public.tableau.com/views/HRAnalyticsdashboard_16874228960740/HRANALYTICSDASHBOARD?:language=en-US&:display_count=n&:origin=viz_share_link)**
 Interactive Dashboard using Tableau
 
 #
-</br>
 <img align="left" width="250" height="150" src="https://github.com/sandeeprairai/Portfolio/blob/main/Images/tablu2.PNG">
 
 **[Olympic Dashboard](https://public.tableau.com/views/Olympics_EDA_16867265101290/StoryOfOlympics?:language=en-US&:display_count=n&:origin=viz_share_link)**
@@ -44,11 +41,7 @@ Interactive Dashboard using Tableau
 
 
 
-
-
-
-
-### Micro Projects
+## Micro Projects
 - ### Statistics and Machine Learning
 - [Linear Regression ](https://github.com/sandeeprairai/Machine-Learning/blob/main/Linear%20Regression/Gradient_Descent_step_by_step.ipynb) : In this file, I aim to solve linear regression using analytical method and also by implementing gradient descent, stochastic gradient descent and minibatch gradient descent algorithms.
 - [House Prediction Using Linear Regression](https://github.com/sandeeprairai/django2/blob/Django/House_Price_Prediction_in%20Django/app/views.py): In this project I have applied Linear Regression Algorithm on A house data set and then converted it into a website using django freamework,
