@@ -3,6 +3,7 @@ This Portfolio is a compilation of all the Data Science and Data Analysis projec
 
 - **Email**: [sandeeprairai339@gmail.com](sandeeprairai339@gmail.com)
 - **LinkedIn**: [linkedin.com/sandeepkumar](https://www.linkedin.com/in/sandeep-kumar-935662228/)
+  
 ## Projects
 ### Machine Learning
 
@@ -18,7 +19,7 @@ In this project Apply various SQL queries such as group by, where clause window 
 
 #
 
-</br>
+
 <img align="left" width="250" height="150" src="https://github.com/sandeeprairai/Portfolio/blob/main/Images/flight.jpg"> 
 
 **[Flight  Case Study](https://github.com/sandeeprairai/SQL/blob/main/Titanic_case_study.pdf)**
@@ -29,8 +30,8 @@ In this project Apply various SQL queries such as group by, where clause window 
 ### Tableau
 <img align="left" width="250" height="150" src="https://github.com/sandeeprairai/Portfolio/blob/main/Images/HR%20ANALYTICS%20DASHBOARD.png"> **[HR ANALYTICS DASHBOARD](https://public.tableau.com/views/HRAnalyticsdashboard_16874228960740/HRANALYTICSDASHBOARD?:language=en-US&:display_count=n&:origin=viz_share_link)**
 Interactive Dashboard using Tableau
-
 #
+
 <img align="left" width="250" height="150" src="https://github.com/sandeeprairai/Portfolio/blob/main/Images/tablu2.PNG">
 
 **[Olympic Dashboard](https://public.tableau.com/views/Olympics_EDA_16867265101290/StoryOfOlympics?:language=en-US&:display_count=n&:origin=viz_share_link)**
