@@ -31,7 +31,6 @@ In this project Apply various SQL queries such as group by, where clause window 
 - Steps
 - Gathering the data(Data Gathered from Kaggle )
 - Cleaning (Data Cleaning is done using sql)
-- Performed the EDA(Exploratory Data Analysis) using univariate analysis,bivariate analysis and multivariate analysis.
 - Made the interactive dashboard in tableau dashboard and connect to mysql server.
 - Finally published on the Tableau Public Platform
 
@@ -45,8 +44,7 @@ In this project Apply various SQL queries such as group by, where clause window 
 - Steps
 - Gathering the data(Data Gathered from Kaggle )
 - Cleaning (Data Cleaning is done using sql)
-- Performed the EDA(Exploratory Data Analysis) using univariate analysis,bivariate analysis and multivariate analysis.
-- Made the interactive dashboard in tableau dashboard and connect to mysql server.
+-  Made the interactive dashboard in tableau dashboard and connect to mysql server.
 - Finally published on the Tableau Public Platform
 
 
