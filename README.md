@@ -19,7 +19,7 @@ In this project Apply various SQL queries such as group by, where clause window 
 
 #
 
-<img align="left" width="250" height="150" src="https://github.com/sandeeprairai/Portfolio/blob/main/Images/flight.jpg"> **[Flight  Case Study](https://github.com/sandeeprairai/SQL/blob/main/SQL%20Project.pdf)**
+<img align="left" width="250" height="180" src="https://github.com/sandeeprairai/Portfolio/blob/main/Images/flight.jpg"> **[Flight  Case Study](https://github.com/sandeeprairai/SQL/blob/main/SQL%20Project.pdf)**
 
 In this project Apply various SQL queries such as group by, where clause window function etc to extract the information from Flight dataset .
 
