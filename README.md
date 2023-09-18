@@ -40,7 +40,7 @@ Interactive Dashboard using Tableau
 #
 
 
-<img align="left" width="250" height="150" src="https://github.com/sandeeprairai/Portfolio/blob/main/Images/tablu2.PNG">
+<img align="left" width="250" height="100" src="https://github.com/sandeeprairai/Portfolio/blob/main/Images/tablu2.PNG">
 
 **[Olympic Dashboard](https://public.tableau.com/views/Olympics_EDA_16867265101290/StoryOfOlympics?:language=en-US&:display_count=n&:origin=viz_share_link)**
 -Steps 
