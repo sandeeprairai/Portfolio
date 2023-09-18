@@ -32,7 +32,7 @@ In this project Apply various SQL queries such as group by, where clause window 
 - Gathering the data(Data Gathered from Kaggle )
 - Cleaning (Data Cleaning is done using sql)
 - Made the interactive dashboard in tableau dashboard and connect to mysql server.
-- Finally published on the Tableau Public Platform
+
 
 
 #
@@ -45,7 +45,7 @@ In this project Apply various SQL queries such as group by, where clause window 
 - Gathering the data(Data Gathered from Kaggle )
 - Cleaning (Data Cleaning is done using sql)
 -  Made the interactive dashboard in tableau dashboard and connect to mysql server.
-- Finally published on the Tableau Public Platform
+
 
 
 
