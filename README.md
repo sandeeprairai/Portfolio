@@ -31,7 +31,7 @@ In this project, I have used a naive Bayes machine Learning algorithm to classif
 - [Python Basic By IBM](https://github.com/sandeeprairai/Portfolio/blob/main/Certificates/IBM%20PY0101EN%20Certificate%20_%20edX.pdf)
 - [AWS Certificate](https://github.com/sandeeprairai/Portfolio/blob/main/Certificates/AWS_Academy_Graduate___AWS_Academy_Introduction_to_Cloud_Semester_1_Badge20230312-28-483ybe.pdf)
 - [AI certification By Azure](https://github.com/sandeeprairai/Portfolio/blob/main/Certificates/sandeep_Azurecertificate.pdf)
-- Web development Training By Internshala(https://github.com/sandeeprairai/Portfolio/blob/main/Certificates/Web%20Development%20Training%20-%20Certificate%20of%20Completion.pdf)
+- [Web development Training By Internshala](https://github.com/sandeeprairai/Portfolio/blob/main/Certificates/Web%20Development%20Training%20-%20Certificate%20of%20Completion.pdf)
 
 
 
