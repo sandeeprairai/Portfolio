@@ -8,13 +8,18 @@ This Portfolio is a compilation of all the Data Science and Data Analysis projec
 
 <img align="left" width="250" height="150" src="https://github.com/sandeeprairai/Portfolio/blob/main/Images/spam.jpg"> **[Email Spam Classifier:Machine Learning](https://github.com/sandeeprairai/spam_detection)**
 
-In this project, I have used a naive Bayes machine Learning algorithm to classify the Email messages.The Naive Bayes Algorithm always gives the best result with textual data  There are various categories that come under the naive Bayes Gaussian Naive Bayes, Multinomial Naive Bayes, Complement Naive Bayes, and Bernoulli Naive Bayes.
+In this project, I have used a naive Bayes machine Learning algorithm to classify the Email messages. The Naive Bayes Algorithm always gives the best result with textual data  There are various categories that come under the naive Bayes Gaussian Naive Bayes, Multinomial Naive Bayes, Complement Naive Bayes, and Bernoulli Naive Bayes.
+
+#
+<img align="left" width="250" height="150" src="https://github.com/sandeeprairai/Portfolio/blob/main/Images/ipl.PNG"> **[IPL Win Probability Predictor:Machine Learning](https://github.com/sandeeprairai/IPL_predictor)**
+
+This project is made using a Logistic Regression  Algorithm. This project is quite interesting while we are targeting any team. Ultimately the goal is to make this project is to learn how To clean the data, Perform the EDA, Train the model, Test the model, and convert it into a web application.
 
 #
 
 <img align="left" width="250" height="150" src="https://github.com/sandeeprairai/Portfolio/blob/main/Images/flight_app.PNG"> **[Flight Price Predictor:Machine Learning](https://github.com/sandeeprairai/Flight_price)**
 
-This project is made using a random Forest Algorithm.This project is usefull for the person those are want to book a flight from different cities.Ultimately the goal is to make this project is to learn how To clean the data,Perform the EDA,Train the model,Test the model and convert it into a web application .
+This project is made using a random Forest Algorithm. This project is useful for the person those are wants to book a flight from different cities. Ultimately the goal is to make this project is to learn how To clean the data, Perform the EDA, Train the model, Test the model and convert it into a web application.
 
 #
 
