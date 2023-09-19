@@ -33,7 +33,7 @@ In this project Apply various SQL queries such as group by, where clause window 
 #
 
 
-<img align="left" width="250" height="150" src="https://github.com/sandeeprairai/Portfolio/blob/main/Images/HR%20ANALYTICS%20DASHBOARD.png"> **[HR ANALYTICS DASHBOARD:TAbleau](https://public.tableau.com/views/HRAnalyticsdashboard_16874228960740/HRANALYTICSDASHBOARD?:language=en-US&:display_count=n&:origin=viz_share_link)**
+<img align="left" width="250" height="150" src="https://github.com/sandeeprairai/Portfolio/blob/main/Images/HR%20ANALYTICS%20DASHBOARD.png"> **[HR ANALYTICS DASHBOARD:Tableau](https://public.tableau.com/views/HRAnalyticsdashboard_16874228960740/HRANALYTICSDASHBOARD?:language=en-US&:display_count=n&:origin=viz_share_link)**
 
 - Steps
 - Gathering the data(Data Gathered from Kaggle )
