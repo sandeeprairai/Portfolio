@@ -12,6 +12,13 @@ In this project, I have used a naive Bayes machine Learning algorithm to classif
 
 #
 
+<img align="left" width="250" height="150" src="https://github.com/sandeeprairai/Portfolio/blob/main/Images/flight_app.PNG"> **[Flight Price Predictor](https://github.com/sandeeprairai/Flight_price)**
+
+This project is made using a random Forest Algorithm.This project is usefull for the person those are want to book a flight from different cities.Ultimately the goal is to make this project is to learn how To clean the data,Perform the EDA,Train the model,Test the model and convert it into a web application .
+
+#
+
+
 <img align="left" width="250" height="150" src="https://github.com/sandeeprairai/Portfolio/blob/main/Images/titanic.jpg"> **[Titanic Case Study](https://github.com/sandeeprairai/SQL/blob/main/Titanic_case_study.pdf)**
 
 In this project, I applied various SQL queries such as group by, where clause window function etc to extract the information from  the Titanic dataset. This dataset is collected from  kaggle .whenever there is need of cleaning done using sql .The Primary goal to do case study is when we get the real-time problem how to handle those problems using sql various query.
