@@ -6,26 +6,26 @@ This Portfolio is a compilation of all the Data Science and Data Analysis projec
   
 ## Projects
 
-<img align="left" width="250" height="150" src="https://github.com/sandeeprairai/Portfolio/blob/main/Images/spam.jpg"> **[Email Spam Classifier](https://github.com/sandeeprairai/spam_detection)**
+<img align="left" width="250" height="150" src="https://github.com/sandeeprairai/Portfolio/blob/main/Images/spam.jpg"> **[Email Spam Classifier:Machine Learning](https://github.com/sandeeprairai/spam_detection)**
 
 In this project, I have used a naive Bayes machine Learning algorithm to classify the Email messages.The Naive Bayes Algorithm always gives the best result with textual data  There are various categories that come under the naive Bayes Gaussian Naive Bayes, Multinomial Naive Bayes, Complement Naive Bayes, and Bernoulli Naive Bayes.
 
 #
 
-<img align="left" width="250" height="150" src="https://github.com/sandeeprairai/Portfolio/blob/main/Images/flight_app.PNG"> **[Flight Price Predictor](https://github.com/sandeeprairai/Flight_price)**
+<img align="left" width="250" height="150" src="https://github.com/sandeeprairai/Portfolio/blob/main/Images/flight_app.PNG"> **[Flight Price Predictor:Machine Learning](https://github.com/sandeeprairai/Flight_price)**
 
 This project is made using a random Forest Algorithm.This project is usefull for the person those are want to book a flight from different cities.Ultimately the goal is to make this project is to learn how To clean the data,Perform the EDA,Train the model,Test the model and convert it into a web application .
 
 #
 
 
-<img align="left" width="250" height="150" src="https://github.com/sandeeprairai/Portfolio/blob/main/Images/titanic.jpg"> **[Titanic Case Study](https://github.com/sandeeprairai/SQL/blob/main/Titanic_case_study.pdf)**
+<img align="left" width="250" height="150" src="https://github.com/sandeeprairai/Portfolio/blob/main/Images/titanic.jpg"> **[Titanic Case Study:SQL](https://github.com/sandeeprairai/SQL/blob/main/Titanic_case_study.pdf)**
 
 In this project, I applied various SQL queries such as group by, where clause window function etc to extract the information from  the Titanic dataset. This dataset is collected from  kaggle .whenever there is need of cleaning done using sql .The Primary goal to do case study is when we get the real-time problem how to handle those problems using sql various query.
 #
 
 
-<img align="left" width="250" height="150" src="https://github.com/sandeeprairai/Portfolio/blob/main/Images/flight.jpg"> **[Flight  Case Study](https://github.com/sandeeprairai/SQL/blob/main/SQL%20Project.pdf)**
+<img align="left" width="250" height="150" src="https://github.com/sandeeprairai/Portfolio/blob/main/Images/flight.jpg"> **[Flight  Case Study:SQL](https://github.com/sandeeprairai/SQL/blob/main/SQL%20Project.pdf)**
 
 In this project Apply various SQL queries such as group by, where clause window function etc to extract the information from  the Flight dataset.whenever there is need of cleaning done using sql .The Primary goal to do case study is when we get the real time problem how to handle those problem using sql various query.
 
@@ -33,7 +33,7 @@ In this project Apply various SQL queries such as group by, where clause window 
 #
 
 
-<img align="left" width="250" height="150" src="https://github.com/sandeeprairai/Portfolio/blob/main/Images/HR%20ANALYTICS%20DASHBOARD.png"> **[HR ANALYTICS DASHBOARD](https://public.tableau.com/views/HRAnalyticsdashboard_16874228960740/HRANALYTICSDASHBOARD?:language=en-US&:display_count=n&:origin=viz_share_link)**
+<img align="left" width="250" height="150" src="https://github.com/sandeeprairai/Portfolio/blob/main/Images/HR%20ANALYTICS%20DASHBOARD.png"> **[HR ANALYTICS DASHBOARD:TAbleau](https://public.tableau.com/views/HRAnalyticsdashboard_16874228960740/HRANALYTICSDASHBOARD?:language=en-US&:display_count=n&:origin=viz_share_link)**
 
 - Steps
 - Gathering the data(Data Gathered from Kaggle )
@@ -47,7 +47,7 @@ In this project Apply various SQL queries such as group by, where clause window 
 
 <img align="left" width="250" height="150" src="https://github.com/sandeeprairai/Portfolio/blob/main/Images/tablu2.PNG">
 
-**[Olympic Dashboard](https://public.tableau.com/views/Olympics_EDA_16867265101290/StoryOfOlympics?:language=en-US&:display_count=n&:origin=viz_share_link)**
+**[Olympic Dashboard:Tableau](https://public.tableau.com/views/Olympics_EDA_16867265101290/StoryOfOlympics?:language=en-US&:display_count=n&:origin=viz_share_link)**
 - Steps
 - Gathering the data(Data Gathered from Kaggle )
 - Cleaning (Data Cleaning is done using sql)
