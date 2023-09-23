@@ -61,13 +61,13 @@ In this project Apply various SQL queries such as group by, where clause window 
   #
 
 
-<img align="left" width="250" height="150" src="https://github.com/DataScienceRoadMapDSRM/Tableau-Dashboards-info/blob/main/Prime%20video%20logo.png">
+<img align="left" width="250" height="150" src="https://github.com/sandeeprairai/Portfolio/blob/main/Images/amazon_report.PNG">
 
 **[Amazon Prime dashboard:Power bi]()**
 - Steps
 - Gathering the data(Data Gathered from Kaggle )
 - Cleaning (Data Cleaning is done using sql)
--  Made the interactive dashboard in tableau dashboard and connect to mysql server.
+-  Made the interactive dashboard in Power bi dashboard and connected to mysql server.
 
 
 
