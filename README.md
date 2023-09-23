@@ -58,6 +58,18 @@ In this project Apply various SQL queries such as group by, where clause window 
 - Cleaning (Data Cleaning is done using sql)
 -  Made the interactive dashboard in tableau dashboard and connect to mysql server.
 
+  #
+
+
+<img align="left" width="250" height="150" src="https://github.com/DataScienceRoadMapDSRM/Tableau-Dashboards-info/blob/main/Prime%20video%20logo.png">
+
+**[Amazon Prime dashboard:Power bi]()**
+- Steps
+- Gathering the data(Data Gathered from Kaggle )
+- Cleaning (Data Cleaning is done using sql)
+-  Made the interactive dashboard in tableau dashboard and connect to mysql server.
+
+
 
 
 
